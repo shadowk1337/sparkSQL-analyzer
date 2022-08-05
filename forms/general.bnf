@@ -1,0 +1,9 @@
+<digit> ::= [0-9]
+<number> ::= <digit>+
+
+<alpha> ::= [a-zA-Z]
+<word> ::= <alpha>+
+
+<create-sql> ::= "create"
+<insert-sql> ::= "insert"
+<
