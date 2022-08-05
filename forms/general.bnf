@@ -6,4 +6,6 @@
 
 <create-sql> ::= "create"
 <insert-sql> ::= "insert"
-<
+<drop-sql> ::= "drop"
+<select-sql> ::= "select"
+<update-sql> ::= "update"
